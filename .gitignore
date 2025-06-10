@@ -1,3 +1,6 @@
 .DS_Store
 globi-bees-filtered_file.tsv
 Dorey-cleaned-database.txt
+.RData
+.Rhistory
+/scripts/
